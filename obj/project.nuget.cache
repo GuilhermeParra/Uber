@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8LK3AdRQnOlgHZ3TAvtInIgPzjmb37eRbyIHY6257PugbEJSWIIshGpZBIWESascmTElOoKYrSGFijZcINs9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parra\\OneDrive\\Documentos\\Senai\\Uber\\Uber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
