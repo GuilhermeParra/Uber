@@ -9,10 +9,13 @@ namespace Uber
 
     private string statusCorrida;
     private string motorista;
-    private string passageiro;
-
     
 
+    
+    /// <summary>
+    /// Cancela a corrida
+    /// </summary>
+    /// <returns>Corrida cancelada</returns>
     public string cancelar(){
         return "Corrida cancelada";
     }
